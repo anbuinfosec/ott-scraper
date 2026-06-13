@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Ensures git push works
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -24,29 +26,30 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y unzip
+          sudo apt-get install -y p7zip-full
           python -m pip install --upgrade pip
           pip install requests
 
       - name: Extract ZIP
         run: |
           mkdir -p extracted
-          unzip -P "${{ secrets.ZIP_PASSWORD }}" fifa.zip -d extracted
+          7z x fifa.zip -oextracted -p"${{ secrets.ZIP_PASSWORD }}" -y
 
       - name: Generate tv.json
         run: |
-          python extracted/main.py > tv.json
+          python extracted/fifa/main.py > tv.json
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          
           git add tv.json
-
+          
           if ! git diff --cached --quiet; then
             git commit -m "Update tv.json"
             git push
           else
             echo "No changes detected"
           fi
+          
