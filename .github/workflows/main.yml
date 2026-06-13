@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Ensures git push works
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -35,21 +35,30 @@ jobs:
           mkdir -p extracted
           7z x fifa.zip -oextracted -p"${{ secrets.ZIP_PASSWORD }}" -y
 
-      - name: Generate tv.json
+      - name: Step 1 - Run main.py to generate tvs.json
         run: |
-          python extracted/fifa/main.py > tv.json
+          cd extracted/fifa
+          python main.py
+
+      - name: Step 2 - Run gen.py using the new tvs.json
+        run: |
+          # Copy the tvs.json created by main.py to the repository root
+          cp extracted/fifa/tvs.json ./tvs.json
+          
+          # Run your local gen.py script sitting in the repository root
+          python gen.py
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add tv.json
+          # Stage the newly created tv.json and downloaded playlists folder
+          git add tv.json m3u8/
           
           if ! git diff --cached --quiet; then
-            git commit -m "Update tv.json"
-            git push
+            git commit -m "Automated update via main.py and gen.py [skip ci]"
+            git push origin HEAD:${{ github.ref }}
           else
-            echo "No changes detected"
+            echo "No changes detected in streams or mapping file."
           fi
-          
