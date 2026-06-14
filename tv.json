@@ -1,13 +1,13 @@
 [
   {
     "name": "GERMANY VS CURACAO",
-    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/sIcmaNr7fiE7MW1AkGQr.png",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/LPeJj0ecQp9LB67JYXGp.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/germany_vs_curacao.m3u8"
   },
   {
     "name": "AUSTRALIA VS TURKIYE",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/yygyiOy8HGXavNhDVTwI.png",
-    "streamUrl": "https://vod3.rockstreamer.com/main2/robi_fifa_main_abr/playlist.m3u8"
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/australia_vs_turkiye.m3u8"
   },
   {
     "name": "QATAR VS SWITZERLAND",

@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3740
+#EXT-X-MEDIA-SEQUENCE:4732
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzg0OTRiN2U2NDUwMTJkODNjOWZhOGUyZWEyNDljZTcyLzYxNTgyNl8zNzQwLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzdiMzgxODMzZTJkNDA1NDUyMjVlNGYxNTJhNWJiNzg3LzYxNTgyNl80NzMyLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2NiODY3YzdmMmE2MzVhNDcwZGRiNGFhNTQ2ZmJjOTRmLzYxNTgyNl8zNzQxLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2JmM2E5NjMzN2NkYjk0MzFlYjE1NjkzYTJmNDE5YjlkLzYxNTgyNl80NzMzLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzI5ZjBlNzlmZWY5NWMyNDkyNjMyYjkzNWZjNzM2MjdlLzYxNTgyNl8zNzQyLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2NmYTU0YzY4MTc0YTBkNjdjNTk5NjRlYWMzNDI2NzE0LzYxNTgyNl80NzM0LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzM4OTkwNTU1OTRhZjAwOTc3ZDBiZGZkZjM4MjY4NTNlLzYxNTgyNl8zNzQzLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2E5ZGVlZTEwZjE4ZGU5MDk4NmZkNDliN2MyZDE5YTFmLzYxNTgyNl80NzM1LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzhmZmE0MjM4ZmZhMTVlNzM2YjIzNWM0MjMxZjU4YTE5LzYxNTgyNl8zNzQ0LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzU2ZWYzZTc4YmZhNzY4ZTI3MmJjNGEyYTVlYmY3NmEyLzYxNTgyNl80NzM2LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzYzNGEzNWIyMThmZTBiNTdiNzBiZThiYmNjZmM3MmM3LzYxNTgyNl8zNzQ1LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2YxNzEyODkyM2JhM2FkNzVkYzM3N2RlNGU3MGMyZDk0LzYxNTgyNl80NzM3LnRz
 
