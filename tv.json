@@ -1,13 +1,28 @@
 [
   {
     "name": "GERMANY VS CURACAO",
-    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/WUTyr9xbHe5PtOsqSiuF.png",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/u9VCo0Uz3HA2pnUJ8iog.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/germany_vs_curacao.m3u8"
   },
   {
     "name": "NETHARLANDS VS JAPAN",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/wpnzrz8PM0GpwwmTHBlM.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/netharlands_vs_japan.m3u8"
+  },
+  {
+    "name": "IVORY COAST VS ECUADOR",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/B17naOBG1cr0Ht4xkCe7.png",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/ivory_coast_vs_ecuador.m3u8"
+  },
+  {
+    "name": "SWEDEN VS TUNISIA",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/Si9yn2ePDWN4G23dmsym.png",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/sweden_vs_tunisia.m3u8"
+  },
+  {
+    "name": "SPAIN VS CAPE VERDE",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/GnzTaExTQ5trbni3rzgw.png",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/spain_vs_cape_verde.m3u8"
   },
   {
     "name": "Fifa 2026(SportTV 1)",
