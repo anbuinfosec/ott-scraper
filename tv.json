@@ -1,10 +1,5 @@
 [
   {
-    "name": "GERMANY VS CURACAO",
-    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/u9VCo0Uz3HA2pnUJ8iog.png",
-    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/germany_vs_curacao.m3u8"
-  },
-  {
     "name": "NETHARLANDS VS JAPAN",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/wpnzrz8PM0GpwwmTHBlM.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/netharlands_vs_japan.m3u8"
@@ -23,6 +18,11 @@
     "name": "SPAIN VS CAPE VERDE",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/GnzTaExTQ5trbni3rzgw.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/spain_vs_cape_verde.m3u8"
+  },
+  {
+    "name": "GERMANY VS CURACAO",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/u9VCo0Uz3HA2pnUJ8iog.png",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/germany_vs_curacao.m3u8"
   },
   {
     "name": "Fifa 2026(SportTV 1)",
