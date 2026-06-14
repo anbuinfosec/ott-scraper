@@ -1,10 +1,5 @@
 [
   {
-    "name": "BRAZIL VS MOROCCO",
-    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/rMvQ5pAaGXVUcgfq5l5d.png",
-    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/brazil_vs_morocco.m3u8"
-  },
-  {
     "name": "HAITI VS SCOTLAND",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/3gaORyb9RuCg0Xz0xcgK.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/haiti_vs_scotland.m3u8"
@@ -23,6 +18,11 @@
     "name": "QATAR VS SWITZERLAND",
     "logo": "https://nextstreamer-graphic.rockstreamer.com/images/bWApaif5R0SFPJoXgULy.png",
     "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/qatar_vs_switzerland.m3u8"
+  },
+  {
+    "name": "BRAZIL VS MOROCCO",
+    "logo": "https://nextstreamer-graphic.rockstreamer.com/images/rMvQ5pAaGXVUcgfq5l5d.png",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/brazil_vs_morocco.m3u8"
   },
   {
     "name": "Fifa 2026(SportTV 1)",
