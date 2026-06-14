@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1269
+#EXT-X-MEDIA-SEQUENCE:1931
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
-#EXTINF:9.620000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy8wNDUwMGVlYmZmNzZkYzRlYmY2YmFlM2FhOGE5ZTlhYy8xNzQ1MTc3XzEyNjkudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy9lNjc4ZDI3MjA1MzY0Yzk0NzYwM2VkNjhiMzE2NzkyYi8xNzQ1MTc3XzEyNzAudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy9iNjhlYTk3ZTUwMjY3NTMyZWE3Njg4ZDlhOWNiMmZiZS8xNzQ1MTc3XzE5MzEudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy80MzdiNWQzZjViNTY0ZmExNjRjYmU1NmM0NDhlMDQxNi8xNzQ1MTc3XzEyNzEudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy9mZDI5N2MzYjM0M2RjOGEzZTc0MTdjOWZkMDE4YWM0Yy8xNzQ1MTc3XzE5MzIudHM=
+#EXTINF:9.600000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy81YjJkZTYzNjU4MWVlYTBmYzJiODVlZGZlYThhM2QzNC8xNzQ1MTc3XzE5MzMudHM=
 #EXTINF:11.520000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy9iNzJkYjAxM2ZjMmFkZjE5ZWM4ODg4Y2YyMzc5OWQ3Ny8xNzQ1MTc3XzEyNzIudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy83YjA4YjNiMTc3MGU3ZjM4ZjQzMjU5MWU4ZjFlZDQyNS8xNzQ1MTc3XzE5MzQudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy80ODJmNjE5OGI3YTRkNTM5NWNiZTIwY2FhMjdmMjNiMi8xNzQ1MTc3XzEyNzMudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy80ZWZiMTJhMTdiNjBhMDY2NzIxNDVlNTUzOTRiYWQwNi8xNzQ1MTc3XzE5MzUudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU1OjgwL2hscy9jYzExMTY3M2VhMzA3Mjk1NTFlMTJlZTQyZjc4YjcxZC8xNzQ1MTc3XzEyNzQudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy9iMmZiNmQ5M2FmMGUzNDBjMDZmNjE3Nzg1Yjc3MzNmOC8xNzQ1MTc3XzE5MzYudHM=
 
