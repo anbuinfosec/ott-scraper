@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:322
+#EXT-X-MEDIA-SEQUENCE:491
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:9.480000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvM2M0ZjNmNmVhZDY3ZmVlZTQ0NDk3YmZkMDNiNTllNmMvMTUwNTI5OF8zMjIudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvM2Q3MjRmOTY4NDRjNzAyNzI2ZjBkZDRmMGVhODkxOTAvMTUwNTI5OF80OTEudHM=
 #EXTINF:10.440000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvZjkyM2IxZThlMTk2MjU3Y2I4N2IyMzg1MmFmMzg2NGMvMTUwNTI5OF8zMjMudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvMmJmZDJlZTFmMjRjYjY5MjE5YzY0ZTMzOTUzNjRmZmMvMTUwNTI5OF80OTIudHM=
 #EXTINF:9.480000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvMDM1YjVkYjA0ZWZhNzEzZTY0ODI5MGVhMTI3M2NhZDcvMTUwNTI5OF8zMjQudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvOTU5NzU5OTFjNzdiYWE0NmFmMDdhNjdlZDg2NWVmYTkvMTUwNTI5OF80OTMudHM=
 #EXTINF:10.440000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvMzZhNTJkMzIxNmFhZjQzNzU0ZjdiYThkNDA2MzZjMTcvMTUwNTI5OF8zMjUudHM=
-#EXTINF:9.320000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvYTA5OTRkYzc3NDcxMzE1YWRkYTQwZDJlNDQzZjA4MzcvMTUwNTI5OF8zMjYudHM=
-#EXTINF:10.400000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvZjBiMzQwZjE4MWVlNWMzOGRlMjU1MTE1MDgwM2I2ZGYvMTUwNTI5OF8zMjcudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvYmJjODNkNjM0OWM1NTAzNjQ1N2ZmZTBiZDI5ZTA2ZTYvMTUwNTI5OF80OTQudHM=
+#EXTINF:9.480000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvNjI4OWY2YzFhZDcyOTljYjhkNDc1NDhjM2ExODZhMWUvMTUwNTI5OF80OTUudHM=
+#EXTINF:9.480000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzg1LjkyLjExNC4yMzo4MC9obHMvOTI1NDY0MmJhOGVmNmIyOTAxMDhhZDRhYmY4OTk2MDQvMTUwNTI5OF80OTYudHM=
 
