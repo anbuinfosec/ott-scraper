@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "Fifa 2026(SportTV 1)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026sporttv_1.m3u8"
+  },
+  {
+    "name": "Fifa 2026(Fussball 1)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026fussball_1.m3u8"
+  },
+  {
+    "name": "Fifa 2026(itv 1)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026itv_1.m3u8"
+  },
+  {
+    "name": "Fifa 2026(itv 4)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026itv_4.m3u8"
+  },
+  {
+    "name": "Fifa 2026(Caze tv)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026caze_tv.m3u8"
+  },
+  {
+    "name": "Fifa 2026(TRT Sports)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026trt_sports.m3u8"
+  },
+  {
+    "name": "Fifa 2026(Telemundo)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026telemundo.m3u8"
+  },
+  {
+    "name": "Fifa 2026(TSN 1)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026tsn_1.m3u8"
+  },
+  {
+    "name": "Fifa 2026(TVR)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026tvr.m3u8"
+  },
+  {
+    "name": "Fifa 2026(Erena sports 1)",
+    "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026erena_sports_1.m3u8"
+  }
+]
