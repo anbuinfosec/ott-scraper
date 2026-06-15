@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1169
+#EXT-X-MEDIA-SEQUENCE:1902
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzg2OTAxMTNiMDdiMGQ2YzNjZDlhMzEzMDk0YWI0NTJlLzYxNTgyNl8xMTY5LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzMxNzc4MDQ5ZGYyZGI3OTkzNGU3ZTg4ZDlmZGQwNzYxLzYxNTgyNl8xOTAyLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzI0YWNiMzA4MGUwZjEwZjk3MmJlNDNlYjEyYjBiNDU1LzYxNTgyNl8xMTcwLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzE4YWI2NzhkYWNjODRlYWIzODhhOGE2MzliNjE0MjM0LzYxNTgyNl8xOTAzLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzczMGQxYmRlM2RkOTM0YTk4N2NlYmE0Y2ZkMzMxZmRkLzYxNTgyNl8xMTcxLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzdhMTcyMzU1ZWM4MzQxOTliNzUzNzY1OTFkMTFmZDBkLzYxNTgyNl8xOTA0LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2JhYTgwMmNlYmMwMzM5ZjZkMTQ3NGQzNGI5NGMzMzczLzYxNTgyNl8xMTcyLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzQ2ZjY0ZjgwMmFkMjk4ZjA5ZDlhYmFmMjkyMTNhMjliLzYxNTgyNl8xOTA1LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzg4YTllYWQ2MzIyYmEyNDY0YmFhNjQ5ZGZlNmZkOTEwLzYxNTgyNl8xMTczLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzMyODZlZmYyYjNhYmViMDJjYjQ1MzUzODg0YzJmNzZiLzYxNTgyNl8xOTA2LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2MwZGViYWVhNTdhNjk5NTJlYjg3YWQ5ZDVlM2RjMzVlLzYxNTgyNl8xMTc0LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzhkOTdiMjBiZWY2OTkxNTk5M2U5YThlMzU4NmE2YzAzLzYxNTgyNl8xOTA3LnRz
 
