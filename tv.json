@@ -27,7 +27,7 @@
   {
     "name": "Fifa 2026(TRT Sports)",
     "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
-    "streamUrl": "https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovL2xpbmUudHZkc3ouY2M6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NUY6NDI6RjUmc3RyZWFtPTYxNTgyNiZleHRlbnNpb249Lm0zdTg=&ext=.m3u8"
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026trt_sports.m3u8"
   },
   {
     "name": "Fifa 2026(Telemundo)",
@@ -42,7 +42,7 @@
   {
     "name": "Fifa 2026(TVR)",
     "logo": "https://i.ibb.co/vvM0SN1N/1000131481.webp",
-    "streamUrl": "https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovL3dvd3R2LmNjOjgwL3BsYXkvbGl2ZS5waHA/bWFjPTAwOjFBOjc5OjQ0OjAxOkZGJnN0cmVhbT0xMzg5NDkzJmV4dGVuc2lvbj0ubTN1OA==&ext=.m3u8"
+    "streamUrl": "https://raw.githubusercontent.com/anbuinfosec/ott-scraper/refs/heads/main/m3u8/fifa_2026tvr.m3u8"
   },
   {
     "name": "Fifa 2026(Erena sports 1)",
