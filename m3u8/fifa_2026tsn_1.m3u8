@@ -1,18 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:880
+#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
+#EXTINF:10.043367,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzMwMmRhODVkMDAxMzdlYThjMzQzZmU3YTJlOGNiZTY1LzEzODk1MjlfMC50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNTk2OTZjMmM2YTA3NTA1MTBlMmUxMWJkNWM5M2UxMmUvMTM4OTUyOV84ODAudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzI3ZTJhMjgzNTEwZWIyNDU3ZTcxZDJkNTBkYzk3MTMxLzEzODk1MjlfMS50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZTY1MThiMmI0Y2IwMTcwYThmODVjNjhkN2I4NjliNmUvMTM4OTUyOV84ODEudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzhlZjJlZGVlYjhiNGM5NDY4NjA5YzIzY2VmZjgzM2JjLzEzODk1MjlfMi50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZTJjMjg0Njc0OTc5ZmI0MGVmYjM0YThmZTZmYjJiMDUvMTM4OTUyOV84ODIudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzAzMjIwNzE4YWVmMjUzN2I1OTZmZjJjZTY2NjkwYzc3LzEzODk1MjlfMy50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNjhjZmIyZGM2ODVkZWVlYzVhMDQ0OWI4ZGVjODllZDcvMTM4OTUyOV84ODMudHM=
-#EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNDc2MWVkNzA2NDA2NjFlYzc4ZDlhNmI3NTY2MWFmNTAvMTM4OTUyOV84ODQudHM=
-#EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZDk4NjFlNTdmNDI4YjVhODQ1ZGQ5OWMyMWY0ZTY5M2EvMTM4OTUyOV84ODUudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzQ4MmQ2NmE4ZDU3MmJkYjA4MjJhNDIwMDE0NmFlNWUxLzEzODk1MjlfNC50cw==
 
