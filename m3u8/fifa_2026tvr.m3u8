@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:289
+#EXT-X-MEDIA-SEQUENCE:12
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:11
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzRmNDIyYTRhMDFhMTY5ZTYzMzg5ZmU4YzA4NjkyNjc1LzEzODk0OTNfMjg5LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzIzMzZkZjBjYTFiYjU2NWU2MmE2Y2RiYTgyYzA5NzUwLzEzODk0OTNfMTIudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzZlM2Q2MDA0NzIzNmY5NTNhOTQxNjczNzFjMmFhZjRiLzEzODk0OTNfMjkwLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzL2RkOTMyOTgwMDJhNjQ4MzIzZjE1ZDFiMTM3YjVmODZiLzEzODk0OTNfMTMudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzg2NmYxMTViY2M1Y2Y2MDJlMDZkYjk2YzU0NTk5YzE3LzEzODk0OTNfMjkxLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzgzNTkwOTY5YzM3Yjg5ODJiNDA5ZWI1YzM2ZDM3OWU0LzEzODk0OTNfMTQudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzL2IwZmRiODg1YmExNzBhM2EwOWFjNjY5YWEyYzBjMmNmLzEzODk0OTNfMjkyLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzL2JhNDFhZGIxODc1ZWIzNmI2ZjE1YTk3Y2VkNjhiNzg0LzEzODk0OTNfMTUudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzUwYjlhZGFjNzZjZTYyYWQzZWVjYjc4NWFkMTIwMTIyLzEzODk0OTNfMjkzLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzL2FhZGI5NTJmOGJmYmI3NzU1ZTFmMWU0ZmM0OGU0NmJjLzEzODk0OTNfMTYudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzNmNDA0NDUxMjc3NGNkMTZjNGFiNWEyZjcwYWRjY2RjLzEzODk0OTNfMjk0LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuNzc6ODAvaGxzLzYyODk2MjYyMzQwNDFmZmY0NGZhZjg2YjA2NzZmNTlhLzEzODk0OTNfMTcudHM=
 
