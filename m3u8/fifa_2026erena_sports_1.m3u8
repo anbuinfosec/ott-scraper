@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:15.0,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzEwMy4xNzYuOTAuMTE2L29mZmxpbmUudHM=
-#EXT-X-ENDLIST
