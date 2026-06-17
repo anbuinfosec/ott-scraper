@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3484
+#EXT-X-MEDIA-SEQUENCE:230
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzL2FkMzgzNmNjZDM4YmM3NjY0OWU3Yjk1MjExN2VmNmNhLzEzODk1MjlfMzQ4NC50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvYjEyZDE3NzRlNGVjZmEzOGRjZDI4ZjU2ZGM0YWJlMmQvMTM4OTUyOV8yMzAudHM=
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzVlYjllOGVjNTZlMjVhZTY4NjkxZGZhZDEwODg3YTIwLzEzODk1MjlfMzQ4NS50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZjcwN2ZhMTYzZWI1NTczODdjNThjYjQ3MTEzNTg4MGUvMTM4OTUyOV8yMzEudHM=
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzQ1OWIwYTQxYWE5YzQ1MTZhMzk4NTllYzJmZjUyYTRkLzEzODk1MjlfMzQ4Ni50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZjcyNzYxMDYyMDdiZDZiNDM5ZjQ3MTQ1MTQ0NmU5OTgvMTM4OTUyOV8yMzIudHM=
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzI1MWY4NTQwMzYwMmI0ZDAzMmZjYmNlODRjMzhmMDIyLzEzODk1MjlfMzQ4Ny50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvN2I5YTZlNzIxMTg1ZTcwNzBlMzk1NjZlNmM5MWU3MzgvMTM4OTUyOV8yMzMudHM=
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzL2FjYzI1MDBiZjNlY2FhNGZjNGRkMTUxNGQzZDY4NmMzLzEzODk1MjlfMzQ4OC50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvYzAwNTFiNTk0YThhNDc5MDY1ZjBlYjExMDZmYzAyYzQvMTM4OTUyOV8yMzQudHM=
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzL2JiYzNhYTdlOWUxYzVmNmU3ZGJjM2NhN2RmODBkZGE3LzEzODk1MjlfMzQ4OS50cw==
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNjIyMDM5YWU2ODc0MDUyMWY3MTNkZWI1ZTRmYThiY2QvMTM4OTUyOV8yMzUudHM=
 
