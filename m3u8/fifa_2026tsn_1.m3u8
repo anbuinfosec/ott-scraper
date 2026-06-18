@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3077
+#EXT-X-MEDIA-SEQUENCE:4
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvZTA0YWM4NDM0ZGNjNzFlOWJmOGRhNzE5NGQ3ZGUzMWQvMTM4OTUyOV8zMDc3LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzNmOTUxN2E0NTliNzdhNDYyOGM3MzVhNWIzOGEwM2VkLzEzODk1MjlfNC50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNDRmN2JjZmRlNGZmNWJlNTM0NjNiYTg0OTQ3ODY1NzUvMTM4OTUyOV8zMDc4LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzL2EzN2NkODhjZDBjNjhhZGYyMGE1NjZiM2U0YTQxZDE2LzEzODk1MjlfNS50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvMmU5MzE1NmE0YzQyN2VmMjQxZTNmMmE1MjBhZjM1MWUvMTM4OTUyOV8zMDc5LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzdhMWFiYTc1ZjY5MDQwODYxMDk1OTk3NjFjNTYzNjEwLzEzODk1MjlfNi50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvYWI0ODE3YzlmNDRjZGRjYjBjMWI3OWUzZGI0MWIyMGIvMTM4OTUyOV8zMDgwLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzL2IzMzRkMTJjMjZmMjY4ZTBkYTZmYjk5MjkwMjVkM2RhLzEzODk1MjlfNy50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvYTdlNmViMDY1MWU5NzY3NDI3OTc4Yzg4MTMyNmNmMTQvMTM4OTUyOV8zMDgxLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzM0YjgzZmIxOTg4NzhkMDRlNzBkMjYzNWU4MWQyMTFjLzEzODk1MjlfOC50cw==
 #EXTINF:10.010000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4xMTo4MC9obHMvNjU3NzQxZTUzZWEzZWQ3ODNjMTgxY2Y0OWRkMzJiNTgvMTM4OTUyOV8zMDgyLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE4NS4yNDMuNy4yMDA6ODAvaGxzLzViNDgxNTMwY2VkNGFiMzk3OThlNjdmYzNkYmQ3NDZjLzEzODk1MjlfOS50cw==
 

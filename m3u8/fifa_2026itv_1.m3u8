@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1312
+#EXT-X-MEDIA-SEQUENCE:2312
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy83ODAwY2RmZDFhOWIxYmEzMzk1NjZiZjRlZjM4YzJjYi8xMTY4OTg1XzEzMTIudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy9mOGMwMGJkNGI4NjQ2YzM0Mzg2ZjI4MjBhNDVmNjUzOC8xMTY4OTg1XzIzMTIudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy85ODcyYmRjZmFjYjkzOTI1MzI5YWZiOTRiYzRjOWFkZi8xMTY4OTg1XzEzMTMudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy81MWExNDQwOGY3NmMxOTllNWFhMWY1NTFhOGZjZjQ5My8xMTY4OTg1XzIzMTMudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy8xOTlmOWEzZDY0ZDY5ZDI5ZTUzZGE0OWU0ZjAwMjE1NC8xMTY4OTg1XzEzMTQudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy83OWQ3Nzk2NmIxOGFiNzU0Yzk2N2IxZDQzOTRiZmQ3Yy8xMTY4OTg1XzIzMTQudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy8yYTBkMDg0MDE3Y2E4OTc0MjAwYjg2MDNiYzJiNWM1YS8xMTY4OTg1XzEzMTUudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy8xOGMwMmE0MGNmMzA5MDBhZDgwMjAxMjU4NjFkZDczMy8xMTY4OTg1XzIzMTUudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy9kZjIxNDdiZmExNTAxMWQyYjg4NmQ2NjRhZjQ0NDlmMi8xMTY4OTg1XzEzMTYudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy9iMTE5NDhlY2Y4NTM5Njg1ODM5NjVhNTM5NmNjYmVhMy8xMTY4OTg1XzIzMTYudHM=
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy85ZDE3NjIzNDViMzlmNjRiN2UzMTIzZTVhYmM2OTJmMC8xMTY4OTg1XzEzMTcudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQzLjI1MC4xMjcuMTkzOjgwL2hscy85ZGY4ZThjNGY2ODUzODY3ZWI0ODY0ODU0MzdiMGFmOC8xMTY4OTg1XzIzMTcudHM=
 
