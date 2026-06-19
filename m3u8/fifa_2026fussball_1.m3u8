@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:5739
+#EXT-X-MEDIA-SEQUENCE:6498
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8zY2M4NDU1ZGQ3MWZmZmJmZTUxODdiMzIzNjYxMzNiZi8xNzQ1MTc3XzU3MzkudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9kODJhNmE4MmIyYzFhNmQ0NzRlODBlNmQyOGMwOGI3MC8xNzQ1MTc3XzY0OTgudHM=
 #EXTINF:11.520000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8xOGZkMWQ3ZTMxYzJkOWUzMDUxMTNkOTdkMTAzODUwMi8xNzQ1MTc3XzU3NDAudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9jMDY3NzBmOTlkMThkYjAzNDZmMjZjMDVlZTE0NzNmZi8xNzQ1MTc3XzY0OTkudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9iODFlZTUxZTM2YWNlNjdkNTA1MWJhNzk2ZGEyNzYxNS8xNzQ1MTc3XzU3NDEudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8wOGUyZDlhOTMzM2E4MmNlNTAzYjkyM2M5ZmUxNTUyYi8xNzQ1MTc3XzY1MDAudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy82MWM5Y2MwMjI2YmU0YWMxYTA4MGIzMDkyZTc0OWZjYi8xNzQ1MTc3XzU3NDIudHM=
-#EXTINF:9.200000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8xZmU0NTRiYmQzNTYyNzAzODBhYTFjOWJhZGNjNWZlMi8xNzQ1MTc3XzU3NDMudHM=
-#EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8zZTBlMTQyODcwY2I5MWQ3ZTQ0NDJiYjY0MDI4ZDczNy8xNzQ1MTc3XzU3NDQudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy82ZGYwZDllMzZlYjkwOGQzZTI3YTgyYjQzMTZlZWYzZi8xNzQ1MTc3XzY1MDEudHM=
+#EXTINF:9.600000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy8yZDg0ZDQyMDUzMGZiMjk2ZDU4NDY4N2E5YjlhY2I5My8xNzQ1MTc3XzY1MDIudHM=
+#EXTINF:9.600000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy80ZmFiNDI0NjQzYjYyMTg2NjlmYTBhMTUzNzk4MDdmNi8xNzQ1MTc3XzY1MDMudHM=
 
