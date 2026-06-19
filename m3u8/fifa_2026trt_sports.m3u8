@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:4206
+#EXT-X-MEDIA-SEQUENCE:1620
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzBhMDQ2OGNhYjZjZTk1NjJjZDc0N2UxNWIzOTZlZjZlLzYxNTgyNl80MjA2LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzRhMTU1MGViZGY2OWY1ODgxN2Y4NWNjOTliNzI0NzA4LzYxNTgyNl8xNjIwLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzJmMDg1MzY1MmJhMWZhYzVjNWI2NGNiNTczYTkyNmRlLzYxNTgyNl80MjA3LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzY3MzM5OGRiNGY1YTgzMjE1NGZhODM5NGEwMTYzZGMyLzYxNTgyNl8xNjIxLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzk2MWU0NjgwMzkzNWMzZmZkOGFmNGRkODcyMjg1NWNjLzYxNTgyNl80MjA4LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzc2OGE3ZThmMzg2ZmFjN2U2Mjg3ODJiNTRkNGRiYzk4LzYxNTgyNl8xNjIyLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzBhY2FiNzk1NDYwOTczYjJkYzEwMjE1Y2Y1Y2FlZmMyLzYxNTgyNl80MjA5LnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzI2MDZlZjk4Y2JlMGQ3ZTEwNmRlOTRjY2M3YjhhY2Q3LzYxNTgyNl8xNjIzLnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2MyOGRiYWM0NjQyYjAwMWY3YzcxMzcwZWUyMzdhMjJkLzYxNTgyNl80MjEwLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzEyN2E4MDUyYjgzNGJlODdmN2E3OTliMDkyZGQ0MmU4LzYxNTgyNl8xNjI0LnRz
 #EXTINF:10.000000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzL2UxMzZlMmNhNmY5YTUwMDlkYjcxNjE3YzZlMWFlOWFiLzYxNTgyNl80MjExLnRz
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzE5Mi4xNDIuMjcuNjQ6ODAvaGxzLzVlNDViMzE3Mzg0ODYwOWRjOGM4MzM3MjY1NDZhNWYyLzYxNTgyNl8xNjI1LnRz
 
