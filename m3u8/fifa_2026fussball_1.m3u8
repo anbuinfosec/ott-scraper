@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:8132
+#EXT-X-MEDIA-SEQUENCE:1169
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9hYjI2ZjQ0NGQxZTdjMmRiMzIxYWQ3ZjA1NzU2ZTRiZS8xNzQ1MTc3XzgxMzIudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy9kNzZiYThmMTMwZGYwYjRiZjNjNjk3M2EwNThiODAxYS8xNzQ1MTc3XzExNjkudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy81OTk1OTFjNDc5ZmUzMTY4MGE3ZDlkZjg3N2Q2MTU0Zi8xNzQ1MTc3XzgxMzMudHM=
-#EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9iYWE4MzQwY2E0OWI1ZTY1MjYzNmZkNjNiMmZjYmUyMi8xNzQ1MTc3XzgxMzQudHM=
-#EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9lNDhkZGE3NTViNGUxN2QyMjg3Y2RkYWExMzI0NDA1OC8xNzQ1MTc3XzgxMzUudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy8yNDdmNGE2ZjUzNDU5YzNhMWVmMTk0NjYyNDc1ODMyNC8xNzQ1MTc3XzExNzAudHM=
 #EXTINF:11.520000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy83NjgxOWFkMjA2ZmVmMWIyYTBkNzQxNzE5NDA1ZTRjMC8xNzQ1MTc3XzgxMzYudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy9iOGUyZmI1ZjhkMTM4ZmMwNzM0ZTM0NjUyY2QyZGE1ZC8xNzQ1MTc3XzExNzEudHM=
 #EXTINF:9.600000,
-https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzkyLjI0MC4xNTAuMjU0OjgwL2hscy9iODkzOWFkM2E4OWE1ZjhlNDkyZjUyZTE5NmE2MTRlYy8xNzQ1MTc3XzgxMzcudHM=
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy8zYTFhYzYxNGE2MWNjZWVmZDNjZjlkNzc3NDkyZTZiMi8xNzQ1MTc3XzExNzIudHM=
+#EXTINF:9.600000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy8xZjhhZDgzNmExYzZiMDVlMWU1YjE4YzAyZGU4NmEzYy8xNzQ1MTc3XzExNzMudHM=
+#EXTINF:9.600000,
+https://allottflix.com/fiafa.php?action=stream&url=aHR0cDovLzQ1Ljg5LjUwLjU0OjgwL2hscy8yYjU5Yzk5MTQ2MGU1MjY0ZTIyMTYzMmNmMDhiZTU2NC8xNzQ1MTc3XzExNzQudHM=
 
